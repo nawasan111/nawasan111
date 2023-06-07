@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nawasan111
 
-![img](https://img.anytion.com/picture.jpg?size=max)
+![img](https://img.anytion.com/sakura.jpg)
 
 <!---
 
