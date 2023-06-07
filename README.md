@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nawasan111
 
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <image href="https://img.anytion.com/picture.jpg" height="200" width="200" />
-</svg>
+![img](https://img.anytion.com/picture.svg)
 
 
 <!---
