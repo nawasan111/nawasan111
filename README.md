@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nawasan111
 
-[img](https://img.anytion.com/picture.svg)
+![img](https://img.anytion.com/picture.svg)
 
 <!---
 
