@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nawasan111
-
-![img](https://img.anytion.com/sakura.jpg)
-
+<p align="center">
+  <img src="https://media.tenor.com/LyWLGRRhlp4AAAAd/yamauchi-sakura.gif">
+</p>
 <!---
 
 - 👀 I’m interested in ...
